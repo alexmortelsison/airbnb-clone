@@ -5,7 +5,7 @@ export default function NavSearch() {
     <Input
       type="text"
       placeholder="Find a property..."
-      className="max-w-xs dark:bg-muted"
+      className="sm:w-[500px] w-45 dark:bg-muted"
     />
   );
 }

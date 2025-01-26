@@ -1,3 +1,5 @@
+import { User2Icon } from "lucide-react";
+
 export default function UserIcon() {
-  return <div>UserIcon</div>;
+  return <User2Icon className="bg-primary rounded-full text-white" />;
 }
